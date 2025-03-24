@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatibbhadoriya&label=Profile%20views&color=0e75b6&style=flat" alt="swatibbhadoriya" /> </p>
 
-- 🔭 I’m currently working as a **Fullstack Developer at Unsweetened Beauty**
-
-- 🌱 Planning to learn **Angular**
+- 🔭 I’m currently working as a **Fullstack Developer at Turing**
 
 - 💬 Ask me about **Django Rest Framework, MERN, Next, Nest**
 
 - 📫 How to reach me **swatibhadoriya0608@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wcda5YLOdP5P3RBOwb6CtMYloiX0S9o/view?usp=sharing](https://drive.google.com/file/d/11wcda5YLOdP5P3RBOwb6CtMYloiX0S9o/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11wcda5YLOdP5P3RBOwb6CtMYloiX0S9o/view?usp=sharing](https://drive.google.com/file/d/1phJLbROjg8aJyMtzO-8bL8yMqnlnP4K1/view?usp=sharing)
 
 - ⚡ Fun fact **I am what you are looking for.**
 
